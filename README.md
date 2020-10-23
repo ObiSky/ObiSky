@@ -1,4 +1,4 @@
-# Githubber expert 👋🔭
+#👋🔭
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ObiSky&count_private=true&show_icons=true&theme=gruvbox)<!-- GitHub stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ObiSky&layout=compact)<!-- Languages stats -->
 
